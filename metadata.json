@@ -1,0 +1,5 @@
+{
+  "name": "Copy of  Steel Coil Nesting Optimizer UI V1.1 finish",
+  "description": "A web interface for managing parts data for steel coil nesting optimization. Users can input parts, set parameters, import/export CSV, and trigger a simulated optimization process.",
+  "requestFramePermissions": []
+}
